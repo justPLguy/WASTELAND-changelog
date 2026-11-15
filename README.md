@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/wasteland_logo.jpg" alt="WASTELAND" width="420">
+  <img src="wasteland_logo.jpg" alt="WASTELAND" width="420">
 </p>
 
 <h1 align="center">WASTELAND — Outpost 17</h1>
