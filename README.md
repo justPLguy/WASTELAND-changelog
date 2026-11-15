@@ -6,6 +6,7 @@
 
 <p align="center">
   <b>A post-apocalyptic, isometric settlement builder for the browser — half active, half idle.</b><br>
+  <a href="https://justplguy.github.io/WASTELAND/"><b>🌐 Website</b></a> ·
   <a href="https://discord.gg/atxXYTb63Z"><b>💬 Join the Discord</b></a> ·
   <a href="../../releases"><b>📜 Read the update notes</b></a>
 </p>
@@ -41,6 +42,7 @@ There is always a reason to come back for a few minutes.
   (*Camp → Outpost → Settlement → Town → Haven*) with permanent perks.
 - 🌙 **Come back later** — production, research, expeditions and contracts keep running on the server while the game
   is closed. A report shows what happened while you were away.
+- 🚚 **Free Caravans** — traders stop at the gate every few hours: trade, fill their requests, earn reputation — and the maps of a second region, the Dry Basin.
 - 📱 **Desktop and phone** — one game in the browser, with a full touch layout. 🇬🇧 English and 🇵🇱 Polish.
 
 ## Principles
@@ -55,7 +57,7 @@ There is always a reason to come back for a few minutes.
 
 Planned next (subject to change):
 
-- The first NPC faction and a new region, daily goals.
+- Daily goals, more factions and regions.
 - More locations, survivor stories, late-game projects.
 - Later: accounts, playing on any device, cooperative and social features — without hostile PvP.
 
@@ -64,6 +66,7 @@ Planned next (subject to change):
 - 📜 **[Releases](../../releases)** — notes for every update, newest first.
   Click **Watch → Custom → Releases** at the top of this page to get notified about new versions.
 - 💬 **[Discord](https://discord.gg/atxXYTb63Z)** — news, screenshots, feedback, bug reports and test access.
+- 🌐 **[Website](https://justplguy.github.io/WASTELAND/)** — everything about the game in one place.
 
 ---
 
