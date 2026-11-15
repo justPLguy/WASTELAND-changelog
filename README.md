@@ -43,6 +43,7 @@ There is always a reason to come back for a few minutes.
 - 🌙 **Come back later** — production, research, expeditions and contracts keep running on the server while the game
   is closed. A report shows what happened while you were away.
 - 🚚 **Free Caravans** — traders stop at the gate every few hours: trade, fill their requests, earn reputation — and the maps of a second region, the Dry Basin.
+- 🎯 **Daily rounds** — 3 short goals every day and 3 bigger ones every week; unfinished goals simply expire.
 - 📱 **Desktop and phone** — one game in the browser, with a full touch layout. 🇬🇧 English and 🇵🇱 Polish.
 
 ## Principles
@@ -57,7 +58,7 @@ There is always a reason to come back for a few minutes.
 
 Planned next (subject to change):
 
-- Daily goals, more factions and regions.
+- More factions and regions.
 - More locations, survivor stories, late-game projects.
 - Later: accounts, playing on any device, cooperative and social features — without hostile PvP.
 
