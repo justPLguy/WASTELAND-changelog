@@ -7,7 +7,7 @@
 <p align="center">
   <b>A post-apocalyptic, isometric settlement builder for the browser — half active, half idle.</b><br>
   <a href="https://justplguy.github.io/WASTELAND/"><b>🌐 Website</b></a> ·
-  <a href="https://discord.gg/atxXYTb63Z"><b>💬 Join the Discord</b></a> ·
+  <a href="https://discord.gg/zpjzJwGTew"><b>💬 Join the Discord</b></a> ·
   <a href="../../releases"><b>📜 Read the update notes</b></a>
 </p>
 
@@ -21,7 +21,7 @@ There is always a reason to come back for a few minutes.
 > 📜 **This repository is the public development log of WASTELAND.**
 > It contains no game files — every update is published here as a **[release](../../releases)** with full notes
 > on what changed. The game itself is in closed development.
-> Want to follow the project, give feedback or join the tests? **[Come to the Discord](https://discord.gg/atxXYTb63Z).**
+> Want to follow the project, give feedback or join the tests? **[Come to the Discord](https://discord.gg/zpjzJwGTew).**
 
 ---
 
@@ -66,7 +66,7 @@ Planned next (subject to change):
 
 - 📜 **[Releases](../../releases)** — notes for every update, newest first.
   Click **Watch → Custom → Releases** at the top of this page to get notified about new versions.
-- 💬 **[Discord](https://discord.gg/atxXYTb63Z)** — news, screenshots, feedback, bug reports and test access.
+- 💬 **[Discord](https://discord.gg/zpjzJwGTew)** — news, screenshots, feedback, bug reports and test access.
 - 🌐 **[Website](https://justplguy.github.io/WASTELAND/)** — everything about the game in one place.
 
 ---
