@@ -44,6 +44,8 @@ There is always a reason to come back for a few minutes.
   is closed. A report shows what happened while you were away.
 - 🚚 **Free Caravans** — traders stop at the gate every few hours: trade, fill their requests, earn reputation — and the maps of a second region, the Dry Basin.
 - 🎯 **Daily rounds** — 3 short goals every day and 3 bigger ones every week; unfinished goals simply expire.
+- 🎒 **Gear up** — tools, weapons, armor and first aid kits for every survivor. Find them in the ruins or make them.
+- 🌿 **The Verdant** — growers in a valley where the forest came back. Fill their requests for permanent farming perks and explore the Green Scar.
 - 🔥 **Keep spirits up** — morale follows a target you can read: food, beds, a campfire, hot meals, rest. Inspired survivors work faster.
 - 📱 **Desktop and phone** — one game in the browser, with a full touch layout. 🇬🇧 English and 🇵🇱 Polish.
 
@@ -59,8 +61,8 @@ There is always a reason to come back for a few minutes.
 
 Planned next (subject to change):
 
-- A second faction (The Verdant) and a new region (The Green Scar).
-- Vehicles and advanced expeditions, then late-game projects.
+- Vehicles and advanced expeditions.
+- Great projects for the late game.
 - More locations and survivor stories.
 - Later: accounts, playing on any device, cooperative and social features — without hostile PvP.
 
